@@ -22,7 +22,7 @@ body {
 	--color-bg-move: #afb6bc;
 	color: var(--color-text);
 	background-color: var(--color-bg);
-	font-family: fieldwork-hum, sans-serif;
+	font-family: 'Titillium Web', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -83,7 +83,7 @@ main {
 a {
 	text-decoration: none;
 	color: var(--color-link);
-	
+
 }
 
 a:hover,
@@ -125,7 +125,7 @@ a:focus {
 	color: var(--color-text);
 }
 
-.content, 
+.content,
 .content__move {
 	width: 100%;
 	height: 100vh;
@@ -220,7 +220,7 @@ a:focus {
 .menu__item:hover {
 	-webkit-text-fill-color: var(--color-menu-text);
 	text-fill-color: var(--color-menu-text);
-	color: var(--color-menu-text);
+	color: #d91965;
 }
 
 .item {
