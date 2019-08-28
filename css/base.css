@@ -15,18 +15,20 @@ html, body {
 
 body {
 	--color-text: #252528;
-	--color-bg: #afb6bc;
+	--color-bg: #fff;
 	--color-link: #252528;
 	--color-link-hover: #252528;
 	--color-menu-text: #252528;
-	--color-bg-move: #afb6bc;
+	--color-bg-move: #fff;
 	color: var(--color-text);
 	background-color: var(--color-bg);
 	font-family: 'Titillium Web', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-
+h2{
+	color:#d91965;
+}
 main {
 	width: 100%;
     height: 100%;
