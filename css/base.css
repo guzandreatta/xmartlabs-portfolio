@@ -12,7 +12,9 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 html, body {
 	height: 100%;
 }
-
+p{
+	font-size: 1.3em;
+}
 body {
 	--color-text: #252528;
 	--color-bg: #fff;
