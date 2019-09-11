@@ -248,7 +248,6 @@ a:focus {
 	flex: none;
 	background-size: cover;
 	background-position: 50% 25%;
-	opacity: 0.4;
 }
 
 .item__content {
