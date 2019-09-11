@@ -341,8 +341,8 @@ a:focus {
 		display: flex;
 	}
 	.item__img {
-		height: 100%;
-		width: 45%;
+		    height: 100vh;
+    width: 50vw;
 		background-position: 50% 50%;
 	}
 	.item__content {
